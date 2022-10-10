@@ -1,2 +1,8 @@
 # Voice-Assistance
 A Voice assistance for Android  Mobile User's, which the app can perform voice command based tasks.
+
+Do-all Voice Assistance is an android OS based application which is going to develop for control the mobile device services through this app. Services like skills which are going to operate based on voice command given by the user, the skills said as to open any other application from this app and can access other operations from this do-all application. The application is acts as user interaction platform which user can operate the device services from this application via voice commands.
+
+Do-all is free and open-source voice assistant application running on android devices. It supports many different skills and inputs/outputs methods, and it provides both speech and graphical feedback to a question. It uses Vosk for speech to text. It has multilanguage support such as like English, French, German, Greek, Italian, Russian, and Spanish etc. The Purpose of chosen this idea to gain knowledgeable experience on Android development with implementation of speech to text recognition concept for user convenience.
+
+The application is based on Android development, the overall application will include XML for User Interface, Java to provide the functioning of effective interface and connectivity, vosk offline speech to text API to assign features of voice recognition input and feedback output to operate skills in the application. The application is implemented in Android Studio Development Tool of version Chipmunk | 2021.2.1 With AVD (Android Virtual Device) of minimum SDK android version 7.0 Nougat and Target SDK android version 11.0. or Mobile device.
